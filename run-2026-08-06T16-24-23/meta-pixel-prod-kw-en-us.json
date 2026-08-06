@@ -1,0 +1,145 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-kuwait---onetrust-(opt-in-consent-modal),-user-opt-in-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 201,
+        "name": "Home accessed from Kuwait - OneTrust (OPT-IN consent modal), User OPT-IN the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1969000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 202,
+            "name": "user access Home in PROD using en-us locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 25273000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 203,
+            "name": "user verify OneTrust template if performance cookie is OPT-IN in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 171824000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 72000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 205
+          },
+          {
+            "name": "@KW",
+            "line": 205
+          },
+          {
+            "name": "@EN-US",
+            "line": 205
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-kuwait---onetrust-(opt-in-consent-modal),-user-opt-out-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 201,
+        "name": "Home accessed from Kuwait - OneTrust (OPT-IN consent modal), User OPT-OUT the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2223000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 202,
+            "name": "user access Home in PROD using en-us locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 25166000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 203,
+            "name": "user verify OneTrust template if performance cookie is OPT-OUT in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 184528000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 67000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 205
+          },
+          {
+            "name": "@KW",
+            "line": 205
+          },
+          {
+            "name": "@EN-US",
+            "line": 205
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "meta-pixel-and-onetrust",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Meta Pixel and OneTrust",
+    "tags": [],
+    "uri": "features\\regression-features\\meta-pixel-onetrust.feature"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-us-ca---onetrust-(opt-out-consent-modal),-user-opt-in-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 4,
+        "name": "Home accessed from US-CA - OneTrust (OPT-OUT consent modal), User OPT-IN the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "failed",
+              "duration": 2332000000,
+              "error_message": "Error: IP region mismatch for US-CA. Expected California, got Indiana (IP: 209.76.88.177)\n    at assertGeoMatches (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\features\\step-definitions\\helpers\\verify-geo-ip.js:77:11)\n    at assertPageUsesDecodoProxy (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\features\\step-definitions\\helpers\\verify-geo-ip.js:95:3)\n    at async resolveDecodoProxy (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\config\\geo-proxy.js:341:27)\n    at async World.<anonymous> (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\features\\step-definitions\\helpers\\hook.js:65:20)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "user access Home in PROD using en-us locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "user verify OneTrust template if performance cookie is OPT-IN in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 40000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 8
+          },
+          {
+            "name": "@US-CA",
+            "line": 8
+          },
+          {
+            "name": "@EN-US",
+            "line": 8
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-us-ca---onetrust-(opt-out-consent-modal),-user-opt-out-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 4,
+        "name": "Home accessed from US-CA - OneTrust (OPT-OUT consent modal), User OPT-OUT the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2101000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "user access Home in PROD using en-us locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28967000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "user verify OneTrust template if performance cookie is OPT-OUT in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 196769000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 65000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 8
+          },
+          {
+            "name": "@US-CA",
+            "line": 8
+          },
+          {
+            "name": "@EN-US",
+            "line": 8
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "meta-pixel-and-onetrust",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Meta Pixel and OneTrust",
+    "tags": [],
+    "uri": "features\\regression-features\\meta-pixel-onetrust.feature"
+  }
+]

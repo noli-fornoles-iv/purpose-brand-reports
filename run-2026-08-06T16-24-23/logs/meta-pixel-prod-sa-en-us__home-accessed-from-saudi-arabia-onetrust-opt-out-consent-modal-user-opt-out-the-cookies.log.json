@@ -1,0 +1,247 @@
+[
+  {
+    "time": "2026-08-06T16:35:22.594Z",
+    "elapsedMs": 1,
+    "level": "log",
+    "source": "stdout",
+    "message": "Navigating to: https://www.orangetheory.com/en-us"
+  },
+  {
+    "time": "2026-08-06T16:35:22.594Z",
+    "elapsedMs": 1,
+    "level": "log",
+    "source": "stdout",
+    "message": "🌐 Verified geo: Saudi Arabia (SA, Mecca Region, IP: 51.211.67.208)"
+  },
+  {
+    "time": "2026-08-06T16:35:24.283Z",
+    "elapsedMs": 1690,
+    "level": "log",
+    "source": "stdout",
+    "message": "📍 URL after navigation: https://www.orangetheory.com/en-us"
+  },
+  {
+    "time": "2026-08-06T16:35:26.405Z",
+    "elapsedMs": 3812,
+    "level": "log",
+    "source": "stdout",
+    "message": "📍 URL after navigation: https://www.orangetheory.com/en-us"
+  },
+  {
+    "time": "2026-08-06T16:35:26.438Z",
+    "elapsedMs": 3845,
+    "level": "log",
+    "source": "stdout",
+    "message": "📍 URL after page ready: https://www.orangetheory.com/en-us"
+  },
+  {
+    "time": "2026-08-06T16:35:35.510Z",
+    "elapsedMs": 12917,
+    "level": "warning",
+    "source": "browser",
+    "message": "Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters"
+  },
+  {
+    "time": "2026-08-06T16:35:44.089Z",
+    "elapsedMs": 21496,
+    "level": "warning",
+    "source": "browser",
+    "message": "The resource https://cdn.intellimize.co/snippet/117841925.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "time": "2026-08-06T16:35:46.439Z",
+    "elapsedMs": 23846,
+    "level": "log",
+    "source": "stdout",
+    "message": "Current GeoLocation setup: SA"
+  },
+  {
+    "time": "2026-08-06T16:35:47.294Z",
+    "elapsedMs": 24701,
+    "level": "warning",
+    "source": "browser",
+    "message": "The resource https://cdn.prod.website-files.com/6629184900a2ef9802de6081/679b3121247cbc4c03354a94_home-banner.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "time": "2026-08-06T16:36:06.448Z",
+    "elapsedMs": 43855,
+    "level": "log",
+    "source": "stdout",
+    "message": "⏳ Waiting up to 45s for initial page load tracking scripts to settle..."
+  },
+  {
+    "time": "2026-08-06T16:36:06.450Z",
+    "elapsedMs": 43857,
+    "level": "log",
+    "source": "stdout",
+    "message": "Network idle reached"
+  },
+  {
+    "time": "2026-08-06T16:36:52.688Z",
+    "elapsedMs": 90095,
+    "level": "log",
+    "source": "stdout",
+    "message": "⏱️ Settle wait complete — no tracking scripts in performance entries"
+  },
+  {
+    "time": "2026-08-06T16:36:52.690Z",
+    "elapsedMs": 90097,
+    "level": "log",
+    "source": "stdout",
+    "message": "Performance Entries: [\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/css/otf-localization.shared.bb47356bd.min.css\",\"https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css\",\"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js\",\"https://cdn.intellimize.co/snippet/117841925.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/679b3121247cbc4c03354a94_home-banner.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fd80e9d1a0d804596b7_close-announcement.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/68e41285fb10a5a66750c110_home-banner%20(1)%20(1).avif\",\"https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6629184900a2ef9802de6081\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fe6d3fa071768069363_new-otf-orange.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.8cabfed2.768e935bbc8b1501.js\",\"https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js\",\"https://dok.js-cdn.dynatrace.com/jstag/17dbdbb3f28/bf83772fza/aafda208f60b676f_complete.js\",\"https://webflow-code.orangetheory.com/project-settings/head.js?v=4.9\",\"https://geo-loc.intl.orangetheory.com/\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a9317ac21f05a438857_PPRightGrotesk-Light.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a93a3eb025e6437a21e_PPRightGrotesk-Medium.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a93c742a023b87fb525_PPRightGrotesk-Dark.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/676d59040cc94d29226689cf_nb-logo.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/663c74bfbd22c0a802c2ac03_icons-globe-black.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/6a1885e45ba4eab4eecd5080_otf-readerschoice-26.avif\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66b21b60d9f0d95eeff521f4_language-dropdown-black.svg\",\"https://cdn.cookielaw.org/consent/a2fa158b-a338-4754-ab5b-48dee4727de2/a2fa158b-a338-4754-ab5b-48dee4727de2.json\",\"https://distributions.crowdin.net/e-7955682fcb9efb17a1473b3ger/content/en/schema-translations.json?timestamp=1786034125994\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/69dcdbcdd2fb9557ccc85c9f_ccpa-icon.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a9317ac21f05a438854_PPRightGrotesk-Regular.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/68d3cbfb633e79e220db7f6b_woman-threadmill.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e192a17fa0aaceffe2a0d_nb-star.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/688b89cfd6614fdfc21c2dba_summer-flash-sale-p-1080.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67b492caeac2a28ce5b0a298_Brad%20G.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67b492ca8ddf54a37fc36115_Nicole%20P.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67b492ca450c1887d538faff_Max%20D.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/686eb4b7961e873d58723ac8_start-fitness-journey.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fef5e3ff06bcc6ca17f_facebook-icon.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308ff05e3ff06bcc6ca1d8_twitter-icon-new.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308ff05e3ff06bcc6ca1ff_instagram-icon-new.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fef5e3ff06bcc6ca160_linkedin-icon.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67da9da89c352260ad8da7c9_en_apple-store.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67dab3ec46a7fc7a6e742585_en_google-play.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.22b66e874d42861f.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.64873797e35e968c.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.65add74e46fe5245.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.ad6dcd2fc75b294c.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.db80639074bc0296.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.5959ac50b3c857f1.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.496d56dd8c063ec0.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.2aaad8b9b407aaec.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.c819fa848578b09e.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.0d5fd7c0799f7b36.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.70aaf5a145877360.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.58f76f2901951073.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.e8e7e6855b442808.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.43f4d187dbb3f1f5.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.40144d8322818807.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.7a15e72921c0ea82.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.a05a70dc064fe75f.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.7b883e524a140c1e.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.a9a2331c8dd9dfff.js\",\"https://webflow-code.orangetheory.com/project-settings/footer.js?v=4.9\",\"https://distributions.crowdin.net/e-7955682fcb9efb17a1473b3ger/content/en/schema-translations.json?timestamp=1786034126039\",\"https://webflow-code.orangetheory.com/navbar-component/index.js?v=4.9\",\"https://webflow-code.orangetheory.com/home/index.js?v=4.9\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fe6d3fa0717680692dc_close_contact.svg\",\"https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/otBannerSdk.js\",\"https://log.intellimize.co/clientlogger\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.47c3b1d20240b084.js\",\"https://webflow-react.orangetheory.com/locations-widget?locale=en-us&v=4.9&ot_active_groups=&noleadreuse=true\",\"https://cdn.cookielaw.org/consent/a2fa158b-a338-4754-ab5b-48dee4727de2/0194b2ba-ebd8-7640-9462-5797264ca54c/en.json\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677817d1a23f27247462edbc_germany.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67780f9030228af8caa8bac7_canada.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67781d992986d75f75b782d6_india.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/663c7611e233c27b771f1147_65690679144f8ad80bf3ed21_united%20states.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677825addddbaa978124f044_spain.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67781fa39184e3b497d6fc02_mexico.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677810c421720600e2a1d884_japan.svg\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otFloatingRoundedCorner.json\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/v2/otPcPanel.json\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otCookieSettingsButton.json\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otCommonStyles.css\",\"https://sdk.rs.orangetheory.com/v3/modern/rsa.min.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/663a661a45aed0d6c58bfa81_caret_n.svg\",\"https://www.googletagmanager.com/gtm.js?id=GTM-WQHMMP8P\",\"https://cdn.cookielaw.org/logos/static/ot_close.svg\",\"https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg\",\"https://api.rudderstack.com/sourceConfig/?p=cdn&v=3.31.6&build=modern&writeKey=2sJKKrXzPL1BROkhAoBVAjrzRr7&lockIntegrationsVersion=true&lockPluginsVersion=true\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-NativeDestinationQueue.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-StorageEncryption.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-OneTrustConsentManager.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-XhrQueue.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-ExternalAnonymousId.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-DeviceModeDestinations.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-GoogleLinker.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-StorageMigrator.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-RetryQueue.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-common.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-deviceModeDestinations.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-legacyEncryptionUtils.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/js-integrations/SpotifyPixel.min.js\",\"https://pixel.byspotify.com/ping.min.js\",\"https://dataplane.rs.orangetheory.com/v1/page\",\"https://www.orangetheory.com/en-us/locations/boca-raton-florida-0011\",\"https://www.orangetheory.com/en-us/book-a-class-1?location_id=3faf5e12-327c-42e6-adb7-1363b57c4d04\",\"https://www.orangetheory.com/en-us/locations\",\"https://pixels.spotify.com/v1/config/0e5a24165809473983e1aeeeb2f46abf\",\"https://pixels.spotify.com/v1/ingest\"]"
+  },
+  {
+    "time": "2026-08-06T16:36:52.695Z",
+    "elapsedMs": 90102,
+    "level": "log",
+    "source": "stdout",
+    "message": "OneTrust active groups (initial): ,C0001,"
+  },
+  {
+    "time": "2026-08-06T16:36:52.732Z",
+    "elapsedMs": 90139,
+    "level": "log",
+    "source": "stdout",
+    "message": "Using multiple cookie preferences option"
+  },
+  {
+    "time": "2026-08-06T16:36:52.740Z",
+    "elapsedMs": 90147,
+    "level": "log",
+    "source": "stdout",
+    "message": "Cookie Preferences are OFF by default"
+  },
+  {
+    "time": "2026-08-06T16:36:52.774Z",
+    "elapsedMs": 90181,
+    "level": "log",
+    "source": "stdout",
+    "message": "Cookie Preferences are already OFF"
+  },
+  {
+    "time": "2026-08-06T16:36:52.805Z",
+    "elapsedMs": 90212,
+    "level": "log",
+    "source": "stdout",
+    "message": "Performance entries cleared"
+  },
+  {
+    "time": "2026-08-06T16:36:52.807Z",
+    "elapsedMs": 90215,
+    "level": "log",
+    "source": "browser",
+    "message": "Call to dtrum.disable() had no effect since RUM JavaScript agent was already disabled or opt-in mode was not active!"
+  },
+  {
+    "time": "2026-08-06T16:36:52.808Z",
+    "elapsedMs": 90215,
+    "level": "log",
+    "source": "browser",
+    "message": "Message sent to iframe: "
+  },
+  {
+    "time": "2026-08-06T16:36:52.808Z",
+    "elapsedMs": 90215,
+    "level": "log",
+    "source": "browser",
+    "message": "Message sent to iframe: https://webflow-react.orangetheory.com/locations-widget?locale=en-us&v=4.9&ot_active_groups=&noleadreuse=true"
+  },
+  {
+    "time": "2026-08-06T16:36:52.808Z",
+    "elapsedMs": 90215,
+    "level": "log",
+    "source": "browser",
+    "message": "Message sent to iframe: "
+  },
+  {
+    "time": "2026-08-06T16:36:52.808Z",
+    "elapsedMs": 90215,
+    "level": "log",
+    "source": "browser",
+    "message": "Message sent to iframe: "
+  },
+  {
+    "time": "2026-08-06T16:36:52.816Z",
+    "elapsedMs": 90223,
+    "level": "log",
+    "source": "browser",
+    "message": "Call to dtrum.disable() had no effect since RUM JavaScript agent was already disabled or opt-in mode was not active!"
+  },
+  {
+    "time": "2026-08-06T16:36:52.868Z",
+    "elapsedMs": 90275,
+    "level": "error",
+    "source": "browser",
+    "message": "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting font-weight: bold; background: black; color: white; font-weight: normal;"
+  },
+  {
+    "time": "2026-08-06T16:36:57.508Z",
+    "elapsedMs": 94915,
+    "level": "warning",
+    "source": "browser",
+    "message": "The resource https://cdn.prod.website-files.com/6629184900a2ef9802de6081/679b3121247cbc4c03354a94_home-banner.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "time": "2026-08-06T16:37:52.833Z",
+    "elapsedMs": 150240,
+    "level": "log",
+    "source": "stdout",
+    "message": "OneTrust active groups (after preferences): ,C0001,"
+  },
+  {
+    "time": "2026-08-06T16:37:54.745Z",
+    "elapsedMs": 152152,
+    "level": "log",
+    "source": "stdout",
+    "message": "📍 URL after navigation: https://www.orangetheory.com/en-us"
+  },
+  {
+    "time": "2026-08-06T16:38:18.115Z",
+    "elapsedMs": 175522,
+    "level": "log",
+    "source": "stdout",
+    "message": "⏳ Waiting up to 45s for post-reload tracking scripts to settle..."
+  },
+  {
+    "time": "2026-08-06T16:38:48.119Z",
+    "elapsedMs": 205526,
+    "level": "log",
+    "source": "stdout",
+    "message": "Network idle timeout — continuing pixel poll"
+  },
+  {
+    "time": "2026-08-06T16:38:50.112Z",
+    "elapsedMs": 207519,
+    "level": "warning",
+    "source": "browser",
+    "message": "Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters"
+  },
+  {
+    "time": "2026-08-06T16:38:59.827Z",
+    "elapsedMs": 217234,
+    "level": "warning",
+    "source": "browser",
+    "message": "The resource https://cdn.prod.website-files.com/6629184900a2ef9802de6081/679b3121247cbc4c03354a94_home-banner.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "time": "2026-08-06T16:39:04.190Z",
+    "elapsedMs": 221597,
+    "level": "log",
+    "source": "stdout",
+    "message": "⏱️ Settle wait complete — no tracking scripts in performance entries"
+  },
+  {
+    "time": "2026-08-06T16:39:04.191Z",
+    "elapsedMs": 221598,
+    "level": "log",
+    "source": "stdout",
+    "message": "Performance Entries: [\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/css/otf-localization.shared.bb47356bd.min.css\",\"https://cdn.intellimize.co/snippet/117841925.js\",\"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js\",\"https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/679b3121247cbc4c03354a94_home-banner.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/68e41285fb10a5a66750c110_home-banner%20(1)%20(1).avif\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fd80e9d1a0d804596b7_close-announcement.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fe6d3fa071768069363_new-otf-orange.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.8cabfed2.768e935bbc8b1501.js\",\"https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6629184900a2ef9802de6081\",\"https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js\",\"https://dok.js-cdn.dynatrace.com/jstag/17dbdbb3f28/bf83772fza/aafda208f60b676f_complete.js\",\"https://webflow-code.orangetheory.com/project-settings/head.js?v=4.9\",\"https://www.googletagmanager.com/gtm.js?id=GTM-WQHMMP8P\",\"https://geo-loc.intl.orangetheory.com/\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a9317ac21f05a438857_PPRightGrotesk-Light.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/69dcdbcdd2fb9557ccc85c9f_ccpa-icon.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a93a3eb025e6437a21e_PPRightGrotesk-Medium.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a93c742a023b87fb525_PPRightGrotesk-Dark.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e0a9317ac21f05a438854_PPRightGrotesk-Regular.otf\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/676d59040cc94d29226689cf_nb-logo.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/663c74bfbd22c0a802c2ac03_icons-globe-black.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/6a1885e45ba4eab4eecd5080_otf-readerschoice-26.avif\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66b21b60d9f0d95eeff521f4_language-dropdown-black.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/68d3cbfb633e79e220db7f6b_woman-threadmill.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677e192a17fa0aaceffe2a0d_nb-star.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/688b89cfd6614fdfc21c2dba_summer-flash-sale-p-1080.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67b492caeac2a28ce5b0a298_Brad%20G.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67b492ca8ddf54a37fc36115_Nicole%20P.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67b492ca450c1887d538faff_Max%20D.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/686eb4b7961e873d58723ac8_start-fitness-journey.webp\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fef5e3ff06bcc6ca17f_facebook-icon.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308ff05e3ff06bcc6ca1d8_twitter-icon-new.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308ff05e3ff06bcc6ca1ff_instagram-icon-new.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fef5e3ff06bcc6ca160_linkedin-icon.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67da9da89c352260ad8da7c9_en_apple-store.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67dab3ec46a7fc7a6e742585_en_google-play.svg\",\"https://cdn.cookielaw.org/consent/a2fa158b-a338-4754-ab5b-48dee4727de2/a2fa158b-a338-4754-ab5b-48dee4727de2.json\",\"https://distributions.crowdin.net/e-7955682fcb9efb17a1473b3ger/content/en/schema-translations.json?timestamp=1786034276117\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/689698f5b57834d4f1cb98fc_pb-logo.png\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/6780b895ba7f7bd8cfc17251_db4c346e18f96703632d6be35e94e4f1_globe-icon.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.22b66e874d42861f.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.64873797e35e968c.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.65add74e46fe5245.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.ad6dcd2fc75b294c.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.db80639074bc0296.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.5959ac50b3c857f1.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.496d56dd8c063ec0.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.2aaad8b9b407aaec.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.c819fa848578b09e.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.0d5fd7c0799f7b36.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.70aaf5a145877360.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.58f76f2901951073.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.e8e7e6855b442808.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.43f4d187dbb3f1f5.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.40144d8322818807.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.7a15e72921c0ea82.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.a05a70dc064fe75f.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.7b883e524a140c1e.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.a9a2331c8dd9dfff.js\",\"https://webflow-code.orangetheory.com/project-settings/footer.js?v=4.9\",\"https://distributions.crowdin.net/e-7955682fcb9efb17a1473b3ger/content/en/schema-translations.json?timestamp=1786034277645\",\"https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/66308fe6d3fa0717680692dc_close_contact.svg\",\"https://webflow-code.orangetheory.com/navbar-component/index.js?v=4.9\",\"https://webflow-code.orangetheory.com/home/index.js?v=4.9\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/otBannerSdk.js\",\"https://log.intellimize.co/clientlogger\",\"https://www.googletagmanager.com/td?id=GTM-WQHMMP8P&v=3&t=t&pid=23993868&gtm=45He6850h2v9209462217za200zd9209462217&seq=1&exp=115938465~115938469~118897920~118897930~119527019~119793973~119896803&dl=www.orangetheory.com%2Fen-us&tdp=GTM-WQHMMP8P;209462217;0;0;0&frm=0&rtg=209462217&slo=5&hlo=12&lst=1&bt=0&ct=3&jsp=1&z=0\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/js/otf-localization.achunk.47c3b1d20240b084.js\",\"https://webflow-react.orangetheory.com/locations-widget?locale=en-us&v=4.9&ot_active_groups=C0001&noleadreuse=true\",\"https://cdn.cookielaw.org/consent/a2fa158b-a338-4754-ab5b-48dee4727de2/0194b2ba-ebd8-7640-9462-5797264ca54c/en.json\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677817d1a23f27247462edbc_germany.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67780f9030228af8caa8bac7_canada.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67781d992986d75f75b782d6_india.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/663c7611e233c27b771f1147_65690679144f8ad80bf3ed21_united%20states.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677825addddbaa978124f044_spain.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/67781fa39184e3b497d6fc02_mexico.svg\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/677810c421720600e2a1d884_japan.svg\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otFloatingRoundedCorner.json\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/v2/otPcPanel.json\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otCookieSettingsButton.json\",\"https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otCommonStyles.css\",\"https://sdk.rs.orangetheory.com/v3/modern/rsa.min.js\",\"https://cdn.prod.website-files.com/6629184900a2ef9802de6081/663a661a45aed0d6c58bfa81_caret_n.svg\",\"https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg\",\"https://api.rudderstack.com/sourceConfig/?p=cdn&v=3.31.6&build=modern&writeKey=2sJKKrXzPL1BROkhAoBVAjrzRr7&lockIntegrationsVersion=true&lockPluginsVersion=true\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-StorageMigrator.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-ExternalAnonymousId.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-OneTrustConsentManager.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-NativeDestinationQueue.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-XhrQueue.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-GoogleLinker.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-StorageEncryption.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-remote-DeviceModeDestinations.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-common.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-legacyEncryptionUtils.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-RetryQueue.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/plugins/rsa-plugins-deviceModeDestinations.min.js\",\"https://sdk.rs.orangetheory.com/3.31.6/modern/js-integrations/SpotifyPixel.min.js\",\"https://pixel.byspotify.com/ping.min.js\",\"https://pixels.spotify.com/v1/config/0e5a24165809473983e1aeeeb2f46abf\",\"https://dataplane.rs.orangetheory.com/v1/page\",\"https://pixels.spotify.com/v1/ingest\"]"
+  },
+  {
+    "time": "2026-08-06T16:39:04.192Z",
+    "elapsedMs": 221599,
+    "level": "log",
+    "source": "stdout",
+    "message": "✅ Meta pixel check complete — OPT-OUT, geo=SA, fbevents loaded=false"
+  }
+]

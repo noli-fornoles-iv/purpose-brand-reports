@@ -1,0 +1,145 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-australia---onetrust-(opt-in-consent-modal),-user-opt-in-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 101,
+        "name": "Home accessed from Australia - OneTrust (OPT-IN consent modal), User OPT-IN the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2869000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 102,
+            "name": "user access Home in PROD using en-au locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22752000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 103,
+            "name": "user verify OneTrust template if performance cookie is OPT-IN in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 139409000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 97000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 105
+          },
+          {
+            "name": "@AU",
+            "line": 105
+          },
+          {
+            "name": "@EN-AU",
+            "line": 105
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-australia---onetrust-(opt-in-consent-modal),-user-opt-out-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 101,
+        "name": "Home accessed from Australia - OneTrust (OPT-IN consent modal), User OPT-OUT the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2293000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 102,
+            "name": "user access Home in PROD using en-au locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22285000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 103,
+            "name": "user verify OneTrust template if performance cookie is OPT-OUT in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 157539000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 75000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 105
+          },
+          {
+            "name": "@AU",
+            "line": 105
+          },
+          {
+            "name": "@EN-AU",
+            "line": 105
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "meta-pixel-and-onetrust",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Meta Pixel and OneTrust",
+    "tags": [],
+    "uri": "features\\regression-features\\meta-pixel-onetrust.feature"
+  }
+]

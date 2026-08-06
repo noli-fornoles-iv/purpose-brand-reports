@@ -1,0 +1,147 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-china---onetrust-(opt-in-consent-modal),-user-opt-in-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 111,
+        "name": "Home accessed from China - OneTrust (OPT-IN consent modal), User OPT-IN the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3184000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 112,
+            "name": "user access Home in PROD using en-us locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 29706000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 113,
+            "name": "user verify OneTrust template if performance cookie is OPT-IN in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 46904000000,
+              "error_message": "Error: First Page Load Errors: Google Analytics script 'https://analytics.google.com' should be loaded\n    at verifyTrackingScripts (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\features\\step-definitions\\meta-pixel-onetrust.js:86:11)\n    at World.<anonymous> (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\features\\step-definitions\\meta-pixel-onetrust.js:132:15)"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1169000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 115
+          },
+          {
+            "name": "@CN",
+            "line": 115
+          },
+          {
+            "name": "@EN-US",
+            "line": 115
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "meta-pixel-and-onetrust;home-accessed-from-china---onetrust-(opt-in-consent-modal),-user-opt-out-the-cookies",
+        "keyword": "Scenario Outline",
+        "line": 111,
+        "name": "Home accessed from China - OneTrust (OPT-IN consent modal), User OPT-OUT the Cookies",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4461000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 112,
+            "name": "user access Home in PROD using en-us locale - Without Query Params",
+            "match": {
+              "location": "features\\step-definitions\\page-access.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28673000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 113,
+            "name": "user verify OneTrust template if performance cookie is OPT-OUT in PROD and verify GCP false",
+            "match": {
+              "location": "features\\step-definitions\\meta-pixel-onetrust.js:107"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 53040000000,
+              "error_message": "Error: First Page Load Errors: Google Analytics script 'https://analytics.google.com' should be loaded\n    at verifyTrackingScripts (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\features\\step-definitions\\meta-pixel-onetrust.js:86:11)\n    at World.<anonymous> (C:\\Users\\NOLI\\Documents\\Github\\Ignite\\otf-meta-pixel-checks\\features\\step-definitions\\meta-pixel-onetrust.js:132:15)"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1044000000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PROD_CONSOLIDATED",
+            "line": 115
+          },
+          {
+            "name": "@CN",
+            "line": 115
+          },
+          {
+            "name": "@EN-US",
+            "line": 115
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "meta-pixel-and-onetrust",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Meta Pixel and OneTrust",
+    "tags": [],
+    "uri": "features\\regression-features\\meta-pixel-onetrust.feature"
+  }
+]
